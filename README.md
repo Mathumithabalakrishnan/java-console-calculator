@@ -85,4 +85,4 @@ Result: 10.00 + 5.00 = 15.00
 
 ## Author
 
-`<Your Name>` — Java Programming Intern
+`Mathumitha` — Java Programming Intern
